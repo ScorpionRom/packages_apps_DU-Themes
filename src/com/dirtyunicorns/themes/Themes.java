@@ -37,7 +37,7 @@ import androidx.preference.PreferenceFragment;
 import androidx.preference.PreferenceManager;
 import androidx.preference.SwitchPreference;
 
-import com.android.internal.util.du.Utils;
+import com.android.internal.util.custom.Utils;
 
 public class Themes extends PreferenceFragment implements SharedPreferences.OnSharedPreferenceChangeListener {
 

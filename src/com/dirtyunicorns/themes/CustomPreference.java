@@ -23,7 +23,7 @@ import android.util.AttributeSet;
 
 import androidx.preference.Preference;
 
-import com.android.internal.util.du.Utils;
+import com.android.internal.util.custom.Utils;
 
 public class CustomPreference extends Preference {
 
