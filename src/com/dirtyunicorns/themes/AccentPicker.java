@@ -176,6 +176,18 @@ public class AccentPicker extends DialogFragment {
         Button yellowAccent = mView.findViewById(R.id.yellowAccent);
         setAccent("com.android.theme.color.yellow", yellowAccent);
         setForegroundDrawable("com.android.theme.color.yellow", yellowAccent);
+
+        Button scorpiongreenAccent = mView.findViewById(R.id.scorpiongreenAccent);
+        setAccent("com.android.theme.color.scorpiongreen", scorpiongreenAccent);
+        setForegroundDrawable("com.android.theme.color.scorpiongreen", scorpiongreenAccent);
+
+        Button scorpionpurpleAccent = mView.findViewById(R.id.scorpionpurpleAccent);
+        setAccent("com.android.theme.color.scorpionpurple", scorpionpurpleAccent);
+        setForegroundDrawable("com.android.theme.color.scorpionpurple", scorpionpurpleAccent);
+
+        Button scorpionredAccent = mView.findViewById(R.id.scorpionredAccent);
+        setAccent("com.android.theme.color.scorpionred", scorpionredAccent);
+        setForegroundDrawable("com.android.theme.color.scorpionred", scorpionredAccent);
     }
 
     private void setForegroundDrawable(String packagename, Button buttonAccent) {

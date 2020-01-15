@@ -291,6 +291,12 @@ public class Themes extends PreferenceFragment implements SharedPreferences.OnSh
             mAccentPicker.setSummary("Teal");
         } else if (Utils.isThemeEnabled("com.android.theme.color.yellow")) {
             mAccentPicker.setSummary("Yellow");
+        } else if (Utils.isThemeEnabled("com.android.theme.color.scorpiongreen")) {
+            mAccentPicker.setSummary("Scorpion Green");
+        } else if (Utils.isThemeEnabled("com.android.theme.color.scorpionpurple")) {
+            mAccentPicker.setSummary("Scorpion Purple");
+        } else if (Utils.isThemeEnabled("com.android.theme.color.scorpionred")) {
+            mAccentPicker.setSummary("Scorpion Red");
         } else {
             mAccentPicker.setSummary(getString(R.string.theme_accent_picker_default));
         }
