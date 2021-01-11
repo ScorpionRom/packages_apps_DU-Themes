@@ -71,6 +71,12 @@
     <string name="statusbar_icons_dialog_title">Select statusbar icon set</string>
 
     <!-- Accents -->
+    <string name="accent_colors_amethyst">Amethyst</string>
+    <string name="accent_colors_aquamarine">Aquamarine</string>
+    <string name="accent_colors_carbon">Carbon</string>
+    <string name="accent_colors_palette">Palette</string>
+    <string name="accent_colors_sand">Sand</string>
+    <string name="accent_colors_tangerine">Tangerine</string>
     <string name="accent_colors_space">Space</string>
     <string name="accent_colors_purple">Purple</string>
     <string name="accent_colors_orchid">Orchid</string>
