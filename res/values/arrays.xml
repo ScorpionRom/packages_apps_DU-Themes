@@ -47,7 +47,6 @@
     <!-- Adaptive icon shapes -->
     <string-array name="adapative_icon_shape_titles">
         <item>@string/statusbar_icons_default</item>
-        <item>@string/adaptive_icon_shape_heart</item>
         <item>@string/adaptive_icon_shape_pebble</item>
         <item>@string/adaptive_icon_shape_roundedhexagon</item>
         <item>@string/adaptive_icon_shape_roundedrect</item>
@@ -68,7 +67,6 @@
         <item>7</item>
         <item>8</item>
         <item>9</item>
-        <item>10</item>
     </string-array>
 
     <!-- Statusbar icons -->
@@ -77,6 +75,9 @@
         <item>@string/statusbar_icons_filled</item>
         <item>@string/statusbar_icons_rounded</item>
         <item>@string/statusbar_icons_circular</item>
+        <item>@string/statusbar_icons_kai</item>
+        <item>@string/statusbar_icons_sam</item>
+        <item>@string/statusbar_icons_victor</item>
     </string-array>
 
     <string-array name="statusbar_icons_values">
@@ -84,6 +85,9 @@
         <item>2</item>
         <item>3</item>
         <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
     </string-array>
 
     <!-- Themes -->
