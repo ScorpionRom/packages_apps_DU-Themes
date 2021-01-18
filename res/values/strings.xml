@@ -43,6 +43,9 @@
     <string name="font_type_9">Samsung One</string>
     <string name="font_type_10">Fira Sans</string>
     <string name="font_type_11">Ubuntu</string>
+    <string name="font_type_12">Linotte</string>
+    <string name="font_type_13">Storopia</string>
+    <string name="font_type_14">Exotwo</string>
 
     <!-- Adaptive icon shapes -->
     <string name="adaptive_icon_shape_default">Default</string>
