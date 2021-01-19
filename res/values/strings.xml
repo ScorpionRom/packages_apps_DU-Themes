@@ -24,6 +24,7 @@
     <string name="theme_accent_picker_default">Default</string>
     <string name="accent_picker_stock_colors">Stock</string>
     <string name="accent_picker_custom_colors">Custom</string>
+    <string name="accent_picker_scorpion_colors">Scorpion</string>
 
     <!-- Dark theme -->
     <string name="dark_theme_title">Dark theme</string>
