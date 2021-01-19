@@ -223,41 +223,4 @@
         android:background="@drawable/accent_picker_circle"
         android:backgroundTint="#FFFFEB3B" />
 
-    <Button
-        android:id="@+id/scorpiongreenAccent"
-        android:layout_width="60dp"
-        android:layout_height="60dp"
-        android:layout_columnWeight="1"
-        android:gravity="center"
-        android:layout_gravity="fill_horizontal"
-        android:layout_marginStart="5dp"
-        android:layout_marginEnd="5dp"
-        android:background="@drawable/accent_picker_circle"
-        android:backgroundTint="#FF00C853" />
-
-    <Button
-        android:id="@+id/scorpionpurpleAccent"
-        android:layout_width="60dp"
-        android:layout_height="60dp"
-        android:layout_columnWeight="1"
-        android:gravity="center"
-        android:layout_gravity="fill_horizontal"
-        android:layout_marginStart="5dp"
-        android:layout_marginEnd="5dp"
-        android:background="@drawable/accent_picker_circle"
-        android:backgroundTint="#FF673AB7" />
-
-    <Button
-        android:id="@+id/scorpionredAccent"
-        android:layout_width="60dp"
-        android:layout_height="60dp"
-        android:layout_columnWeight="1"
-        android:gravity="center"
-        android:layout_gravity="fill_horizontal"
-        android:layout_marginStart="5dp"
-        android:layout_marginEnd="5dp"
-        android:background="@drawable/accent_picker_circle"
-        android:backgroundTint="#FFFF0000" />
-
 </LinearLayout>
-
