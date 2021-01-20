@@ -47,6 +47,7 @@
     <string name="font_type_13">Storopia</string>
     <string name="font_type_14">Exotwo</string>
     <string name="font_type_15">Rubik</string>
+    <string name="font_type_16">Comic Sans</string>
 
     <!-- Adaptive icon shapes -->
     <string name="adaptive_icon_shape_default">Default</string>
