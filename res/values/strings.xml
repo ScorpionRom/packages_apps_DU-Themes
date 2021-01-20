@@ -48,6 +48,7 @@
     <string name="font_type_14">Exotwo</string>
     <string name="font_type_15">Rubik</string>
     <string name="font_type_16">Comic Sans</string>
+    <string name="font_type_17">San Francisco Pro</string>
 
     <!-- Adaptive icon shapes -->
     <string name="adaptive_icon_shape_default">Default</string>
