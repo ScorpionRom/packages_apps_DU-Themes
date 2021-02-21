@@ -181,9 +181,11 @@
         <item>@string/accent_colors_red</item>
         <item>@string/accent_colors_teal</item>
         <item>@string/accent_colors_yellow</item>
+        <item>@string/accent_colors_scorpionblue</item>
         <item>@string/accent_colors_scorpiongreen</item>
         <item>@string/accent_colors_scorpionpurple</item>
         <item>@string/accent_colors_scorpionred</item>
+        <item>@string/accent_colors_scorpionyellow</item>
     </string-array>
 
     <!-- Accent Picker Buttons -->
@@ -217,9 +219,11 @@
         <item>redAccent</item>
         <item>tealAccent</item>
         <item>yellowAccent</item>
+        <item>scorpionblueAccent</item>
         <item>scorpiongreenAccent</item>
         <item>scorpionpurpleAccent</item>
         <item>scorpionredAccent</item>
+        <item>scorpionyellowAccent</item>
     </string-array>
 
 </resources>

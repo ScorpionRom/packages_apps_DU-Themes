@@ -20,6 +20,18 @@
     android:layout_height="wrap_content">
 
     <Button
+        android:id="@+id/scorpionblueAccent"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_columnWeight="1"
+        android:gravity="center"
+        android:layout_gravity="fill_horizontal"
+        android:layout_marginStart="5dp"
+        android:layout_marginEnd="5dp"
+        android:background="@drawable/accent_picker_circle"
+        android:backgroundTint="#FF1F45FC" />
+
+    <Button
         android:id="@+id/scorpiongreenAccent"
         android:layout_width="60dp"
         android:layout_height="60dp"
@@ -54,5 +66,17 @@
         android:layout_marginEnd="5dp"
         android:background="@drawable/accent_picker_circle"
         android:backgroundTint="#FFFF0000" />
+
+    <Button
+        android:id="@+id/scorpionyellowAccent"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_columnWeight="1"
+        android:gravity="center"
+        android:layout_gravity="fill_horizontal"
+        android:layout_marginStart="5dp"
+        android:layout_marginEnd="5dp"
+        android:background="@drawable/accent_picker_circle"
+        android:backgroundTint="#FFCCFF00" />
 
 </LinearLayout>

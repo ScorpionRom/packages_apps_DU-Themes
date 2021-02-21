@@ -104,9 +104,11 @@
     <string name="accent_colors_red">Red</string>
     <string name="accent_colors_teal">Teal</string>
     <string name="accent_colors_yellow">Yellow</string>
+    <string name="accent_colors_scorpionblue">Scorpion Blue</string>
     <string name="accent_colors_scorpiongreen">Scorpion Green</string>
     <string name="accent_colors_scorpionpurple">Scorpion Purple</string>
     <string name="accent_colors_scorpionred">Scorpion Red</string>
+    <string name="accent_colors_scorpionyellow">Scorpion Yellow</string>
 
     <!-- Themes -->
     <string name="theme_type_title">System theme</string>
