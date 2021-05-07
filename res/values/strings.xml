@@ -159,6 +159,9 @@
     <string name="theme_schedule_repeat_summary">Repeats the schedule daily</string>
     <string name="theme_schedule_toasts_title">Show toasts</string>
     <string name="theme_schedule_toasts_summary">Show toasts when scheduled themes are launched</string>
-
+	
+	<!-- QS tile tint -->
+    <string name="qs_bg_use_new_tint">Tint QS tiles using accent color</string>
+    <string name="qs_bg_use_new_tint_summary">Enable the accent color tint on the QS tiles</string>
 </resources>
 
